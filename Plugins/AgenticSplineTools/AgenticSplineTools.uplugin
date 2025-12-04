@@ -1,0 +1,25 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1.0",
+  "FriendlyName": "Agentic Spline Tools",
+  "Description": "Adds a spline-driven movement component and blueprint helpers for quickly animating actors along spline paths.",
+  "Category": "Gameplay",
+  "CreatedBy": "Agentic Autogen",
+  "CreatedByURL": "https://agentic-a8d218e5.vercel.app",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": false,
+  "IsBetaVersion": true,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "EnabledByDefault": false,
+  "Modules": [
+    {
+      "Name": "AgenticSplineTools",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
